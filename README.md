@@ -1,12 +1,12 @@
-# {nombre del proyecto}
+# {GEMA}
 
 **Descripción:**
-{breve explicación del proyecto}
+{una ayuda para los emprendedores,doonde van a poder pedir crearles una pagina web sobre su emprendimiento.}
 
 Integrantes:
 
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
+- {bustos, geraldine} | [@username](https://github.com/username)
+- {troncoso, malena | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
@@ -14,10 +14,10 @@ Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
 ## Elevator's Pitch
 
-- Para {cliente objetivo}
+- Para {clienes}
 - Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
+- El {gema} es un {categoría del producto}
+- Que {vasa poder tener tu propia pagina web sobre tu emprendimiento}
 - Diferente a {otras soluciones existentes, por ejemplo...}
 - Nuestro proyecto {declaración de la diferencia}.
 
